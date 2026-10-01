@@ -35,4 +35,4 @@ La référence produit est [PRODUCT.md](../PRODUCT.md). La priorisation utilise 
 
 ## Validation du POC
 
-Le POC est concluant si les critères MUST sont satisfaits, notamment le test de scan (au moins 9 réussites sur 10 sous 5 s), la persistance locale après rechargement, et la consultation et modification des données essentielles après le premier chargement hors ligne. Le déploiement de validation doit servir uniquement des fichiers statiques, sans backend ni Docker.
+Le POC est concluant si les critères MUST sont satisfaits, notamment le test de scan (au moins 9 réussites sur 10 sous 5 s), la persistance locale après rechargement, et la consultation et modification des données essentielles après le premier chargement hors ligne. Le déploiement de validation doit servir uniquement des fichiers statiques, sans backend ni Docker..
